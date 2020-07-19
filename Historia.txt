@@ -1,2 +1,6 @@
 Hola, soy Samuel y estoy practicando como lo dijo Freddy
 
+modificamos el archivo para ver que pasa cuando movemos algo
+
+
+Otra modificación
